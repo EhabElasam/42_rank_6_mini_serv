@@ -11,7 +11,7 @@ Modifications Include:
 Getting Started
 # Prerequisites
 
-Ensure you have a C compiler installed on your system, such as gcc or clang.
+Ensure you have a C compiler installed on your system, such as gcc or clang. 
 # Compilation
 
 Compile the project using the following command:
