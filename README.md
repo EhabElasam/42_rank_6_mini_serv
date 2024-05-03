@@ -14,7 +14,7 @@ Getting Started
 Ensure you have a C compiler installed on your system, such as gcc or clang. 
 # Compilation
 
-Compile the project using the following command:
+Compile the project using the following command: 
 
 
     gcc -Wall -Wextra -Werror -o mini_serv mini_serv.c
