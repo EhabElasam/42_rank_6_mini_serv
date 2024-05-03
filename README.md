@@ -1,7 +1,7 @@
 ## Modified Mini Serv Project
 # Introduction
 
- with modifications aimed at addressing specific requirements for the Rank 6 examination at the 42 School. It enhances the original simple server implementation to support continuous client connection handling and message broadcasting among multiple clients.
+ with modifications aimed at addressing specific requirements for the Rank 6 examination at the 42 School. It enhances the original simple server implementation to support continuous client connection handling and message broadcasting among multiple clients.  
 Modifications Include:
 
   Implementing a persistent while loop in the main function for ongoing client and message management.
