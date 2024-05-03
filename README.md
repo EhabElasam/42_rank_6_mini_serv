@@ -30,7 +30,7 @@ Start the server on a specified port with:
 Replace <port_number> with your desired port.
 # Usage
 
-Clients can connect to the server using tools like netcat by specifying the server's IP address and port. For example:
+Clients can connect to the server using tools like netcat by specifying the server's IP address and port. For example: 
 
 
     netcat 127.0.0.1 <port_number>
